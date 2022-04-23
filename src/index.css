@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  background: rgb(33, 33, 33);
+}
+
+.App {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  min-height: 100vh;
+}
+.img{
+  width: 300px;
+  text-align: center;
+  border-radius: 50px;
+}
+.action{
+ 
+}
+.btn-action{
+  width: 100%;
+  background-color: orange;
+  border: none;
+  padding:10px;
+  color:#fff;
+  font-size: 16px;
+  border-radius: 20px;
+}
+.playlist-container{
+  text-align: center;
+}

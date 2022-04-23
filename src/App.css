@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+.App .header-content{
+  font-size: 32px;
+  font-weight: bold;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #fff;
+}
+
+.App-header {
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}

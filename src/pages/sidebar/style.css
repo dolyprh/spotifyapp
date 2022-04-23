@@ -1,0 +1,20 @@
+.sidebar li{
+    list-style: none;
+    justify-content: center;
+    line-height: 3.55rem;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.link{
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(56, 56, 56);
+}
+.link:hover{
+    background-color: rgb(86, 233, 66);
+    color: rgb(56, 56, 56);
+}
